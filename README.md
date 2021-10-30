@@ -3,5 +3,8 @@
 - 🌱 Şuanda <b>C# Form</b> projeleriyle ve basit düzeyde <b>Website</b> yapımı ile uğraşıyorum.
 - 💞️ 2022 Yılında Oyun Yapımına Geçmeyi Planlıyorum.
 - 📫 6 Aylık Bir Çalışmanın Ardından Oyunumu Bitirip Steam Platformuna Koymayı Düşünüyorum.
+- 🚀 Aynı Zamanda Teknofest Roket Yarışmalarına Katılıyoruz!
 - ✨ Projelerimi <b>Public</b> olarak paylaşmıyorum, ihtiyaç olunca projeleri <b>Public'e</b> çeviriyorum!
-- ✨ İletişime Geçmek İsteyenler Mail Üzerinden Bana Ulaşabilirler: <b> 1741kerem@gmail.com </b>
+- ✨ İletişime Geçmek İsteyenler Mail veya LinkedIn Üzerinden Bana Ulaşabilirler:
+-  ✨<b> 1741kerem@gmail.com </b>
+- ✨ <b>https://www.linkedin.com/in/kerem-zayim/</b>
