@@ -12,6 +12,9 @@
 <h2>Sosyal Medya</h2>
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/kerem-zayim/" rel="nofollow"><img align="center" src="https://github.com/linkedin.png?s=20" alt="cursedsheep" height="30" width="30" style="max-width: 100%;"></a><b>  Kerem Z.</b>
+  
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/company/deltaware-projects/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94127548?s=64&v=4" alt="cursedsheep" height="30" width="30" style="max-width: 100%;"></a><b>  DeltaWare Projects</b>
 
 <p align="left" dir="auto">
 <a href="www.keremzayim.com" rel="nofollow"><img align="center" src="https://user-images.githubusercontent.com/52594928/141674737-81b569d4-ae73-48ff-b283-cec1320fe993.png" alt="cursedsheep" height="30" width="30" style="max-width: 100%;"></a><b>  www.keremzayim.com</b>
