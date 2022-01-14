@@ -11,6 +11,7 @@
 - ✨ Projelerimi <b>Public</b> olarak paylaşmıyorum, ihtiyaç olunca projeleri <b>Public'e</b> çeviriyorum!
 - ✨ İletişime Geçmek İsteyenler Mail veya LinkedIn Üzerinden Bana Ulaşabilirler:
 <b></b>
+
 [![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/6kcMUk5HVs)
 
 ### Connect with me:
