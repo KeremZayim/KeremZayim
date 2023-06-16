@@ -1,37 +1,21 @@
-### Hi there, I'm Kerem - UnDead To Infinity👋
+# 💫 About Me:
+👋 Merhabalar, ben Kerem Zayim.<br>👀 Küçüklükten beri bilgisayara ve yazılıma olan ilgimle beraber kendimi geliştiriyorum.<br>🌱 Şuanda C# Form projeleriyle ve basit düzeyde Website yapımı ile uğraşıyorum.<br>💞️ 2022 Yılında Oyun Yapımına Geçmeyi Planlıyorum.<br>📫 6 Aylık Bir Çalışmanın Ardından Oyunumu Bitirip Steam Platformuna Koymayı Düşünüyorum.<br>🚀 Aynı Zamanda Teknofest Roket Yarışmalarına Katılıyoruz!<br>✨ Projelerimi Public olarak paylaşmıyorum, ihtiyaç olunca projeleri Public'e çeviriyorum!<br>✨ İletişime Geçmek İsteyenler Mail veya LinkedIn Üzerinden Bana Ulaşabilirler: 
 
-<h2>Kerem Zayim</h2>
 
-- 👋 Merhabalar, ben <b>Kerem Zayim.</b>
-- 👀 Küçüklükten beri bilgisayara ve yazılıma olan ilgimle beraber kendimi geliştiriyorum.
-- 🌱 Şuanda <b>C# Form</b> projeleriyle ve basit düzeyde <b>Website</b> yapımı ile uğraşıyorum.
-- 💞️ 2022 Yılında Oyun Yapımına Geçmeyi Planlıyorum.
-- 📫 6 Aylık Bir Çalışmanın Ardından Oyunumu Bitirip Steam Platformuna Koymayı Düşünüyorum.
-- 🚀 Aynı Zamanda Teknofest Roket Yarışmalarına Katılıyoruz!
-- ✨ Projelerimi <b>Public</b> olarak paylaşmıyorum, ihtiyaç olunca projeleri <b>Public'e</b> çeviriyorum!
-- ✨ İletişime Geçmek İsteyenler Mail veya LinkedIn Üzerinden Bana Ulaşabilirler:
-<b></b>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6kcMUk5HVs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerem-zayim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22084550) 
 
-[![Discord](https://img.shields.io/discord/745215833671729223?color=%237289da&label=Discord%20Sunucumuz&logo=Discord&style=for-the-badge)](https://discord.gg/6kcMUk5HVs)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=keremzayim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=keremzayim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keremzayim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Connect with me:
-
-[<img align="left" alt="keremzayim| Linkedin" width="34px" src="https://github.com/linkedin.png?s=20" />](https://www.linkedin.com/in/kerem-zayim/)
-[<img align="left" alt="keremzayim| Discord" width="34px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />](https://discord.gg/6kcMUk5HVs)
-[<img align="left" alt="keremzayim| Website" width="34px" src="https://user-images.githubusercontent.com/52594928/141674737-81b569d4-ae73-48ff-b283-cec1320fe993.png" />](https://www.keremzayim.com)
-[<img align="left" alt="keremzayim | Mail" width="34px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />](mailto:1741kerem@gmail.com)
-
-<br />
-
-### Languages and Tools:
-
-<a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="max-width: 100%;"> </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26" style="max-width: 100%;"> </a></p>
-
-<br />
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=keremzayim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-  
-  
+[![](https://visitcount.itsvg.in/api?id=keremzayim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
