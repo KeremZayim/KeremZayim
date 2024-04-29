@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Merhabalar, ben Kerem Zayim.<br>👀 Küçüklükten beri bilgisayara ve yazılıma olan ilgimle beraber kendimi geliştiriyorum.<br>🌱 Şuanda C# Form projeleriyle ve basit düzeyde Website yapımı ile uğraşıyorum.<br>💞️ 2022 Yılında Oyun Yapımına Geçmeyi Planlıyorum.<br>📫 6 Aylık Bir Çalışmanın Ardından Oyunumu Bitirip Steam Platformuna Koymayı Düşünüyorum.<br>🚀 Aynı Zamanda Teknofest Roket Yarışmalarına Katılıyoruz!<br>✨ Projelerimi Public olarak paylaşmıyorum, ihtiyaç olunca projeleri Public'e çeviriyorum!<br>✨ İletişime Geçmek İsteyenler Mail veya LinkedIn Üzerinden Bana Ulaşabilirler: 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6kcMUk5HVs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerem-zayim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22084550) 
@@ -17,5 +15,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keremzayim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+#🧩 Little binary quiz 🧩
+00111001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000 00100000 01110000 01100101 01101111 01110000 01101100 01100101 00100000 01110100 01110010 01100001 01101110 01110011 01101100 01100001 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01100101 01111000 01110100 00100000 01110101 01110011 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01110010 00101110 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01110100 01101000 01100001 01110100 00100000 00110001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
